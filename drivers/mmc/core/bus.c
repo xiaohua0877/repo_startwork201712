@@ -14,8 +14,13 @@
 test file 
 */
 
+//<<<<<<< HEAD
 // test file ok dfdsfsd
 // test file ok2  ddd 
+//=======
+// test file ok  2017-012-17
+// test file ok2
+//>>>>>>> origin/dev20171217
 #include <linux/export.h>
 #include <linux/device.h>
 #include <linux/err.h>

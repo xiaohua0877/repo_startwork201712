@@ -13,7 +13,7 @@
  *  MMC card bus driver model
  */
 
-// test file ok 
+// test file ok  2017-012-17
 // test file ok2
 #include <linux/export.h>
 #include <linux/device.h>

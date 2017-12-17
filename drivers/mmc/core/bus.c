@@ -8,14 +8,14 @@
  * it under the terms of the GNU General Public License version 2 as
  * published by the Free Software Foundation.
  test file 
- test file  mmc driver model 
+ test file  mmc driver ssdfdsf s fdsdfsdf sfsdodel 
  *
  *  MMC card bus driver model
 test file 
 */
 
-// test file ok 
-// test file ok2
+// test file ok dfdsfsd
+// test file ok2  ddd 
 #include <linux/export.h>
 #include <linux/device.h>
 #include <linux/err.h>
